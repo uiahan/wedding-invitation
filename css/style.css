@@ -10,6 +10,7 @@
 }
 
 body {
+    overflow: hidden;
     overflow-x: hidden; /* Mencegah scroll horizontal */
     overflow-y: scroll;  /* Memastikan scroll vertikal aktif di seluruh halaman */
 }
